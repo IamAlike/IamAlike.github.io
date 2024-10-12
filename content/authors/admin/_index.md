@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Reza Shahbazian
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Reza
+last_name: Shahbazian
 
 # Status emoji
 status:
@@ -20,18 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistat Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: DIMES Dept, University of Calabria
+    url: https://dimes.unical.it/
+   
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Reza.Shahbazian@unical.it'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -42,47 +43,54 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://https://scholar.google.com/citations?hl=en&user=jSBStSEAAAAJ
+  - icon: academicons/Scopus
+    url: https://https://www.scopus.com/authid/detail.uri?authorId=56054377000
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Image Processing Techniques for Virtual Studios
+  - New Synchronization Algorithm for MB-OFDM Ultra Wide Band Systems
+  - Optimization with applications in Localization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD, Computer Science
+    institution: University of Calabria, Department of Mathematics and Computer Science
+    date_start: 2016
+    date_end: 2019
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: “Distributed Optimization for Large-scale data analytics”. Supervisor: Prof.Francesca Guerriero & Prof. Lucio Grandinetti Thesis defended with the highest grade.
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD, Electrical Engineering (Telecommunications-System)
+    institution: Shahid Beheshti University
+    date_start: 2011
+    date_end: 2016
     summary: |
-      GPA: 3.8/4.0
+      Overal GPA (without thesis): 17.1/20
+      Thesis: “Optimization with applications in Localization”
+      Supervisor: Prof. Seyed Ali Ghorashi. Thesis defended with the highest grade.
+  - area: Master of Engineering, Electrical Engineering (Telecommunications-System)
+    institution: Iran University of Science and Technology (IUST)
+    date_start: 2008
+    date_end: 2011
+    summary: |
+      GPA: 18.1/20
+      Thesis: “New Synchronization Algorithm for MB-OFDM Ultra Wide Band Systems”
+      Supervisor: Prof. Bahman Abolhassani. Rank: The Elite Student among all communication- systems in the Electrical Engineering Department.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    area: Bachelor of Engineering, Electrical Engineering (Telecommunications)
+    institution: Iran University of Science and Technology (IUST)
+    date_start: 2008
+    date_end: 2011
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 16.14/20
+      Thesis: “Image Processing Techniques for Virtual Studios”
+       Supervisor: Prof. Ali Asghar Beheshti. Rank: top 10 percent of all B.S.students of the Electrical Engineering Department (2008). Accepted in MSc, directly without an exam.
+
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
